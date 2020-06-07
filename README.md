@@ -31,7 +31,7 @@ This project uses [Make](https://www.gnu.org/software/make/). The Makefile has f
 
 ## Instructions
 
-1. Clone the project repository: `git clone https://github.com/sachinnits/Project_System_Monitor_Project_CPP.git`
+1. Clone the project repository: `git clone https://github.com/ShreyaSinha613/Project_System_Monitor_Project_CPP.git`
 
 2. Build the project: `make build`
 
